@@ -1,11 +1,11 @@
 
 # World Happiness Index
 
-# Happiness Feedback Loop
+## Happiness Feedback Loop
 
-# Semi-Supervised Learning
+## Semi-Supervised Learning
 
-# Model Stacking
+## Model Stacking
 
-# Conclusion
+## Conclusion
 
