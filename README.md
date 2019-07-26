@@ -4,7 +4,7 @@
 ## Happiness Feedback Loop
 It is heard time and time again that money can’t buy happiness. However, the main strategy for many countries to promote happiness is to increase its GDP. While these two statements seem contradictory, that line of thinking holds some truth as the happiest countries also have the highest GDP. But, this is not the whole story as the UN’s Global Happiness Report has found that many of the most affluent nations are actually declining in happiness. These reports indicate that the relationship between GDP and happiness is actually reversed due to the fact that happier people are more engaged and productive and that this increased productivity is what actually drives GDP growth. 
 
-<img src="happy_feedback_loop.png">
+<img src="happy_feedback_loop.png" width="400" height="400">
 
 This happiness feedback loop can be illustrated using Venezuela as a specific example to evaluate how happiness scores change in response to public policy as it has seen some dramatic changes in the past 10 years. In 2014, it was ranked the 22nd happiest country in the world. Since then, it has fallen 85 spots to 107th and made international headlines with growing concerns over its current socioeconomic crisis. 
 
