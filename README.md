@@ -13,7 +13,9 @@ _It is heard time and time again that money can’t buy happiness. However, the 
 <img src="happy_feedback_loop.png" width="450" height="350">
 </p>
 
-This happiness feedback loop can be illustrated using Venezuela as a specific example to evaluate how happiness scores change in response to public policy as it has seen some dramatic changes in the past 10 years. In 2014, it was ranked the 22nd happiest country in the world. Since then, it has fallen 85 spots to 107th and made international headlines with growing concerns over its current socioeconomic crisis. 
+This happiness feedback loop can be illustrated using Venezuela as a specific example to evaluate how happiness scores change in response to public policy as it has seen some dramatic changes in the past 10 years. In the 2015 Global Happiness Report, Venezuela was ranked 22nd with a happiness score of 6.8 (out of 10). Since then it has fallen 85 spots to 107th in the 2019 report and dropped its happiness score by 2.1 points. The dramatic decline of the happiness of this nation’s citizens is a direct result of it current socioeconomic crisis. Venezuela is currently experiencing shortages of basic goods, increased child mortality and disease, rapidly rising unemployment rates, and unprecedented hyperinflation. Understandably, Venezuelans are unhappy, which has led the the mass emigration of 3 million people to the surrounding countries.
+
+_In 2014, it was ranked the 22nd happiest country in the world. Since then, it has fallen 85 spots to 107th and made international headlines with growing concerns over its current socioeconomic crisis._
 
 <p align="center">
 <img src="venezuela_loop1.png" width="750" height="450">
