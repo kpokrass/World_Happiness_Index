@@ -22,9 +22,13 @@ These three graphs represent the three points on the happiness feedback loop. Th
 
 Happiness scores remained high until 2013, when a contested election following the death of Hugo Chavez and widespread corruption sent the country on its current downward spiral.  The sharp increase seen in the inequality measure aligns with the drastic decrease in both the nation’s happiness scores and GDP. To frame this in the context of the happiness feedback loop. Rising levels of inequality have lead to an unhappy and unproductive economy, which has in turn resulted in a decrease in GDP and thus fewer available funds to invest in prosocial public policies and projects.
 
+## Model Stacking
+
+<img src="stacked_schema.png">
+
 ## Semi-Supervised Learning
 
-## Model Stacking
+<img src="stacked_model.png">
 
 ## Conclusion
 
