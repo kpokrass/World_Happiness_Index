@@ -42,6 +42,8 @@ Second, utilizing a second-level generalizer allows for a more sophisticated com
 
 ## Semi-Supervised Learning
 
+<img src="semi-supervised.png">
+
 Machine learning algorithms fall under two categories based on how they “learn” the data they are given; they are either supervised or unsupervised. In both supervised an unsupervised learning, the algorithm infers a function to describe the data it has been given. The main difference between the two learning styles is that the data used to train the supervised learning algorithm has an output value (also known as a supervisory signal or ground-truth label) in which the inferred function is trying to reproduce, whereas the data used to train the unsupervised learning algorithm does not have an accompanying output value. Thus, the unsupervised learning algorithms are using the training data to find similarities in the overall data structure and responds to the presence/absence of these similarities when presented with new data.
 
 Labeled data, data that has an accompanying output value, is not always readily available in the real world. If the data exists without the label, people can be paid to undertake the painstaking, time-consuming, and expensive task of analyzing each observation and declaring the appropriate label. However, this option is becoming less realistic as the collection and demand for data reaches ever-increasing levels. For this reason, companies such as Google, Microsoft, and Facebook are turning to an approach called semi-supervised learning.
