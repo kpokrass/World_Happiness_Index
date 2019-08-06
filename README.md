@@ -50,6 +50,8 @@ Semi-supervised learning utilizes a supervised learning algorithm trained on gro
 
 The theory behind using semi-supervised learning is that it allows access to a greater amount of data to use while training a model. The more training data a model has access to equates to better model performance because the underlying algorithm has access to more information about the inherent structure and trends present in the data. Thus, the algorithm will be better able to infer a function to describe the data.
 
+## Model Structure and Performance
+
 <img src="stacked_model.png">
 
 The data used for this project was a collection of survey responses to the Gallop World Poll from the citizens of different nations from 2005 to 2018 covering topics such as life expectancy, perceptions of corruption, freedom of choice, and accessibility to social support. The model created to predict the global happiness scores from this data employed a stacking strategy where a collection of base-level classifying models make happiness score predictions, which are then presented along with the original data to a second-level classifying model to make the final happiness prediction. While the survey responses from the Gallop World Poll were accessible back to 2005 for most countries, only the most recent 5 years of happiness scores were available. Thus, this project utilized semi-supervised learning to generate pseudo-labels for the data collected prior to 2014. This decision was made with the aim of increasing model performance by increasing the amount of available training data.
